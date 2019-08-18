@@ -1,5 +1,5 @@
 # Trillo-CSS-Flexbox
-Trillo Site with SCSS, CSS, Flexbox &amp; Media Queries
+Trillo Site with CSS, SCSS, Flexbox &amp; Media Queries
 
 CSS Designed Site with SCSS architecture, FlexBox and Media Queries for Responsive Web/Mobile Design. Coded along with Jonas Schmedtmann in Advanced CSS and Sass Udemy Course (https://www.udemy.com/advanced-css-and-sass/).
 
